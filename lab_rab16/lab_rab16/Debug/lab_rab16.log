@@ -1,0 +1,4 @@
+﻿  lab_rab16.cpp
+C:\Users\rusla\source\repos\lab_rab16\lab_rab16\lab_rab16.cpp(49,16): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+C:\Users\rusla\source\repos\lab_rab16\lab_rab16\lab_rab16.cpp(101,6): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+  lab_rab16.vcxproj -> C:\Users\rusla\source\repos\lab_rab16\Debug\lab_rab16.exe
